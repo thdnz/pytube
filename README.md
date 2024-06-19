@@ -14,6 +14,4 @@ Este projeto é uma ferramenta simples para baixar vídeos do YouTube. Ele usa a
 ## Dependências
 
 Este projeto depende da biblioteca `pytube`. Você pode instalá-la com o seguinte comando:
-
-```bash
 pip install pytube
